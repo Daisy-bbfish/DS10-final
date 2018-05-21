@@ -1,0 +1,12 @@
+name: DS10-Final
+title: DS10-Final
+username:
+account: daisy-bbfish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 345283
+bundleId: 1383815
+url: https://daisy-bbfish.shinyapps.io/DS10-Final/
+when: 1526870475.99088
+asMultiple: FALSE
+asStatic: FALSE
